@@ -1,0 +1,24 @@
+﻿  calc.cpp
+E:\RandomCPP\ConnectedPath\sysout.hpp(12,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\RandomCPP\ConnectedPath\calc.cpp(106,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(110,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(113,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(116,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(136,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(139,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(142,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(145,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(165,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(168,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(171,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(174,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(177,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\RandomCPP\ConnectedPath\calc.cpp(180,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  grid.cpp
+E:\RandomCPP\ConnectedPath\sysout.hpp(12,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\RandomCPP\ConnectedPath\grid.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\RandomCPP\ConnectedPath\grid.cpp(83,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  user.cpp
+E:\RandomCPP\ConnectedPath\sysout.hpp(12,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ConnectedPath.vcxproj -> E:\RandomCPP\ConnectedPath\x64\Debug\ConnectedPath.exe
